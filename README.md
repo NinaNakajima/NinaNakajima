@@ -2,10 +2,10 @@
 🏫I am an University student which learning information system
 
 <!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=NinaNakajima&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/NinaNakajima/)
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=yuzu-ginger&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/yuzu-ginger/)
 
 <!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NinaNakajima&layout=compact&theme=tokyonight)](https://github.com/NinaNakajima/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzu-ginger&layout=compact&theme=tokyonight)](https://github.com/yuzu-ginger/)
 <!--
 **NinaNakajima/NinaNakajima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
