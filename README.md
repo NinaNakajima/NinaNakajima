@@ -1,4 +1,6 @@
-### I'm Nina Nakajima
+### I'm Nina Nakajima(yuzu-ginger)
+🏫Kyoto Women University(KWU) 3rd Grade
+<br>
 🏫I am an University student which learning information system
 
 <!-- リポジトリステータス -->
