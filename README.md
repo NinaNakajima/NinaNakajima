@@ -1,7 +1,7 @@
 ### I'm Nina Nakajima(yuzu-ginger)
-🏫Kyoto Women University(KWU) 4th Grade
+🏫Nara Institute of Science and Technology (NAIST), M1 student
 <br>
-🏫I am an University student which learning information system
+🏫I am a M1 student which learning information technology
 
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=yuzu-ginger&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/yuzu-ginger/)
